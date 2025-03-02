@@ -1,8 +1,8 @@
-# Free Discord Selfbot
+# Free Discord Selfbot and server nuker.
 - (may flag as dangerous by antivirus as the bot has discord account nuker / server nuker logic, ignore warning / run as administrator to stop this.)
 
 Welcome to the **Free Discord Selfbot**! 🎉  
-This selfbot supports **over 100 commands** and is designed to make your Discord experience better.
+This selfbot supports **over 100 commands** and is designed to make your Discord experience better. It also has a virus builder, and a discord server nuker.
 
 ## Features
 - 💯 **Supports over 300 commands** to enhance your Discord experience.
